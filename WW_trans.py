@@ -16,7 +16,7 @@
 
 import numpy
 import sys
-sys.path.append('/home/x/xiansu/pfs/program/numpy/lib/python2.6/site-packages')
+#sys.path.append('/home/x/xiansu/pfs/program/numpy/lib/python2.6/site-packages')
 
 from Numeric import *
 from datetime import datetime
